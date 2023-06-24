@@ -1,0 +1,1 @@
+﻿global using WebApi.Domain.Common.Contracts;

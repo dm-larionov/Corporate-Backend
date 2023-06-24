@@ -1,0 +1,62 @@
+[
+  {
+    "id": "95c3f599-dc79-4cc3-f860-08dad608ca98",
+    "title": "Первая папка",
+    "description": "Пример описания для первой папки",
+    "createdBy": "3ea725f0-63c9-4fbf-abde-bf4c22de2c8e"
+  },
+  {
+    "id": "27495772-0f00-408e-f861-08dad608ca98",
+    "title": "Вторая папка",
+    "description": "Пример описания для второй папки",
+    "createdBy": "3ea725f0-63c9-4fbf-abde-bf4c22de2c8e"
+  },
+  {
+    "id": "d24e1be5-fa60-44bf-5158-08dad60aa12f",
+    "title": "Папка важного",
+    "description": "В данной папке будет располагаться очень важная информация",
+    "createdBy": "3ea725f0-63c9-4fbf-abde-bf4c22de2c8e"
+  },
+  {
+    "id": "b43b07e7-9bf1-4895-5159-08dad60aa12f",
+    "title": "Папка неважного",
+    "description": "В данной папке будет располагаться остальная информация",
+    "createdBy": "3ea725f0-63c9-4fbf-abde-bf4c22de2c8e"
+  },
+  {
+    "id": "9eb49e79-659f-48de-515a-08dad60aa12f",
+    "title": "Ещё папка",
+    "description": "Была к примеру создана новая папка",
+    "createdBy": "3ea725f0-63c9-4fbf-abde-bf4c22de2c8e"
+  },
+  {
+    "id": "ff21ced3-3cf5-4872-515b-08dad60aa12f",
+    "title": "Тестовая папка - 335113",
+    "description": "Папка для тестов",
+    "createdBy": "3ea725f0-63c9-4fbf-abde-bf4c22de2c8e"
+  },
+  {
+    "id": "dd71631d-ef34-4af4-8ff0-08dadaec01ad",
+    "title": "Временная папка",
+    "description": "Папка для хранения временной информации",
+    "createdBy": "3ea725f0-63c9-4fbf-abde-bf4c22de2c8e"
+  },
+  {
+    "id": "fc9cf578-5c0d-4fd4-8ff1-08dadaec01ad",
+    "title": "Прочая информация",
+    "description": "Неопределенная информация",
+    "createdBy": "3ea725f0-63c9-4fbf-abde-bf4c22de2c8e"
+  },
+  {
+    "id": "e2be815d-a5b6-4c8f-8ff2-08dadaec01ad",
+    "title": "Дополнительно",
+    "description": "Прилагается следующая информация",
+    "createdBy": "3ea725f0-63c9-4fbf-abde-bf4c22de2c8e"
+  },
+  {
+    "id": "ff479429-78a9-4741-8ff3-08dadaec01ad",
+    "title": "Содержимое",
+    "description": "Хранилище будет удалено завтра",
+    "createdBy": "3ea725f0-63c9-4fbf-abde-bf4c22de2c8e"
+  }
+]

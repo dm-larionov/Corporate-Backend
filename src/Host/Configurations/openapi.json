@@ -1,0 +1,14 @@
+{
+  "SwaggerSettings": {
+    "Enable": true,
+    "Title": ".NET 6.0 WebAPI",
+    "Version": "v1",
+    "Description": "College Corporate Website API.",
+    "ContactName": "Tech Support",
+    "ContactEmail": "support@test.com",
+    "ContactUrl": "https://localhost:5002",
+    "License": false,
+    "LicenseName": "MIT License",
+    "LicenseUrl": "https://github.com/fullstackhero/dotnet-webapi-boilerplate/blob/main/LICENSE"
+  }
+}
